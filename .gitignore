@@ -164,3 +164,9 @@ image/
 
 # Ignore JetBrains IDE specific settings
 .idea/
+
+# Ignore specified files
+config.json
+deit-base-patch16-224
+pytorch_model.bin
+
